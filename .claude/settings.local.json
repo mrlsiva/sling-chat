@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(dir \"d:\\\\Suguna\\\\claude\\\\Chat01\")",
+      "Bash(cmd /c \"dir d:\\\\Suguna\\\\claude\\\\Chat01 2>&1\")",
+      "Bash(cmd /c \"tree d:\\\\Suguna\\\\claude\\\\Chat01 /F 2>&1\")",
+      "Bash(cmd /c \"cd /d d:\\\\Suguna\\\\claude\\\\Chat01 && tree /F\")",
+      "Bash(cmd /c \"tree /F d:\\\\Suguna\\\\claude\\\\Chat01\")"
+    ]
+  }
+}
