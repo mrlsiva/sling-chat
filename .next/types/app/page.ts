@@ -1,4 +1,4 @@
-// File: D:\Suguna\claude\Chat01\app\page.tsx
+// File: C:\xampp\htdocs\siling-demo-sites\AI-chat\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
